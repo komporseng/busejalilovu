@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://busejalilovu.netlify.app/sitemap.xml
